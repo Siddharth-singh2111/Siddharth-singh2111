@@ -58,11 +58,11 @@ An intelligent document analysis tool that translates complex legal and bureaucr
 
 ## 📊 GitHub Stats
 
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddharth-singh2111&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Siddharth-singh2111&theme=dark)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Siddharth-singh2111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Siddharth-singh2111&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
