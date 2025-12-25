@@ -2,16 +2,17 @@
 
 # Hi, I'm Siddharth Singh 👋
 
-🚀 3rd-year B.Tech student at IIIT Sri City (GPA: 8.51/10)  
+🚀 **3rd-year B.Tech student at IIIT Sri City** (GPA: 8.51/10)  
 💻 Full Stack Developer | Web3 Enthusiast | Data Analytics Explorer  
 📍 Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI & Web3.
 
 ---
 
 ## 🔥 About Me
-- 🌱 Currently exploring **Next.js, FastAPI, and Generative AI** - 🏆 Led **Web3SSH 2025** (Global Web3 Summer School + Hackathon with 100+ participants)  
-- 💡 Love working on **innovative products** and mentoring peers  
-- 🎯 Interests: Full-stack development, AI tooling, Web3 protocols, and scalable APIs  
+- 🌱 Currently exploring **Next.js, FastAPI, and Generative AI**
+- 🏆 Led **Web3SSH 2025** (Global Web3 Summer School + Hackathon with 100+ participants)
+- 💡 Love working on **innovative products** and mentoring peers
+- 🎯 Interests: Full-stack development, AI tooling, Web3 protocols, and scalable APIs
 
 ---
 
@@ -42,20 +43,21 @@ An intelligent document analysis tool that translates complex legal and bureaucr
 
 🔹 [**SplitEase**](https://split-ease-nine.vercel.app/) – Group expense management app (React + Firebase + Recharts)  
 🔹 [**PersonalisedPro**](https://github.com/Siddharth-singh2111/personalized-pro) – Next.js 15 dashboard with curated news, movies, and posts  
-🔹 [**VectorShift**](https://vector-shift-project.vercel.app/) – Drag-and-drop pipeline editor (React + FastAPI)  
+🔹 [**VectorShift**](https://vector-shift-project.vercel.app/) – Drag-and-drop pipeline editor (React + FastAPI)
 
 ---
 
 ## 💼 Experience
-- **SDE Intern @ Qbtrix Innovations (July 2024 – Aug 2024)** Worked as a Full Stack Developer building scalable web applications.  
+- **SDE Intern @ Qbtrix Innovations (July 2024 – Aug 2024)** Worked as a Full Stack Developer building scalable web applications.
 
 - **Team Lead @ Web3SSH 2025 (Apr – July 2025)** - Led execution of a global Web3 summer school & hackathon with 100+ participants.  
   - Managed curriculum design, team coordination & industry partnerships.  
-  - Focused on smart contracts, ZK proofs, and decentralized applications.  
+  - Focused on smart contracts, ZK proofs, and decentralized applications.
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddharth-singh2111&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Siddharth-singh2111&theme=dark)](https://git.io/streak-stats)
@@ -65,9 +67,9 @@ An intelligent document analysis tool that translates complex legal and bureaucr
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-singh-dev/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Siddharth_Singh2711/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Siddharth-singh2111)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-singh-dev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Siddharth_Singh2711/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Siddharth-singh2111)
 📧 [Email Me](mailto:siddharth.s23@iiits.in)
 
 ---
