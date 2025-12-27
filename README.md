@@ -50,12 +50,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-singh2111&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-singh2111&layout=compact&theme=nightowl&hide_border=true" height="160" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Siddharth-singh2111&theme=nightowl&hide_border=true" alt="streak graph" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth-singh2111&show_icons=true&theme=nightowl&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-singh2111&layout=compact&theme=nightowl&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Siddharth-singh2111&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
