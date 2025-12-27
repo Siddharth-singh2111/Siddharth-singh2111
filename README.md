@@ -1,76 +1,99 @@
-![Banner](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-
-# Hi, I'm Siddharth Singh 👋
-
-🚀 **3rd-year B.Tech student at IIIT Sri City** (GPA: 8.51/10)  
-💻 Full Stack Developer | Web3 Enthusiast | Data Analytics Explorer  
-📍 Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI & Web3.
-
----
-
-## 🔥 About Me
-- 🌱 Currently exploring **Next.js, FastAPI, and Generative AI**
-- 🏆 Led **Web3SSH 2025** (Global Web3 Summer School + Hackathon with 100+ participants)
-- 💡 Love working on **innovative products** and mentoring peers
-- 🎯 Interests: Full-stack development, AI tooling, Web3 protocols, and scalable APIs
-
----
-
-## 🛠️ Skills & Tools
-**Languages:** Python, JavaScript, Kotlin, C, SQL, MATLAB  
-**Web Development:** HTML5, CSS3, Tailwind CSS, React.js, Next.js, Node.js, FastAPI, Flask  
-**Databases & Cloud:** MongoDB, GCP, Cloud APIs, API Integration  
-**Security & Cryptography:** Web Crypto API, AES-256-GCM, Zero-Knowledge Architecture, JWT  
-**Automation & AI:** Node-cron, Nodemailer, OpenAI/Gemini API Integration, Prompt Engineering  
-**Data Analytics:** NumPy, Pandas, Matplotlib, Data Structures  
-**Others:** Framer, Canva, Communication, Marketing, Entrepreneurship
-
----
-
-## 📂 Projects
-
-### 💀 [Dead Man's Switch](https://github.com/Siddharth-singh2111/dead-mans-switch) *(New!)*
-A **trustless, zero-knowledge digital vault** that automatically releases encrypted assets to a trustee if the owner becomes inactive.
-* **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Web Crypto API, Tailwind CSS.
-* **Key Features:** Client-side **AES-256-GCM encryption** (server never sees the key), automated inactivity detection via **Cron Jobs**, and secure email dispatch using **Nodemailer**.
-* **Architecture:** Implemented a Split-Key security model ensuring total privacy.
-
-### ⚖️ Civic Simplifier *(AI Powered)*
-An intelligent document analysis tool that translates complex legal and bureaucratic jargon into plain, actionable English.
-* **Tech Stack:** React.js, Node.js, OpenAI/Gemini API.
-* **Key Features:** AI-driven text simplification, document parsing, and real-time legal summarization.
-* **Impact:** Bridged the gap between complex governance documents and the general public.
-
-🔹 [**SplitEase**](https://split-ease-nine.vercel.app/) – Group expense management app (React + Firebase + Recharts)  
-🔹 [**PersonalisedPro**](https://github.com/Siddharth-singh2111/personalized-pro) – Next.js 15 dashboard with curated news, movies, and posts  
-🔹 [**VectorShift**](https://vector-shift-project.vercel.app/) – Drag-and-drop pipeline editor (React + FastAPI)
-
----
-
-## 💼 Experience
-- **SDE Intern @ Qbtrix Innovations (July 2024 – Aug 2024)** Worked as a Full Stack Developer building scalable web applications.
-
-- **Team Lead @ Web3SSH 2025 (Apr – July 2025)** - Led execution of a global Web3 summer school & hackathon with 100+ participants.  
-  - Managed curriculum design, team coordination & industry partnerships.  
-  - Focused on smart contracts, ZK proofs, and decentralized applications.
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Siddharth-singh2111&theme=dark" alt="GitHub Streak" />
-  </a>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Banner" />
+
+  <h1 align="center">Hi, I'm Siddharth Singh 👋</h1>
+
+  <p align="center">
+    <b>3rd-year B.Tech Student at IIIT Sri City</b> (GPA: 8.51/10)<br>
+    <i>Full Stack Developer | Web3 Enthusiast | Data Analytics Explorer</i>
+  </p>
+
+  <p align="center">
+    🌱 Currently exploring <b>Next.js, FastAPI, and GenAI</b> • 💡 Led <b>Web3SSH 2025</b><br>
+    🎯 Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI.
+  </p>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/siddharth-singh-dev/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/Siddharth_Singh2711/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="mailto:siddharth.s23@iiits.in" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Siddharth-singh2111" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
 </div>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-singh-dev/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Siddharth_Singh2711/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Siddharth-singh2111)
-📧 [Email Me](mailto:siddharth.s23@iiits.in)
+### 💻 Tech Stack
+
+<div align="center">
+
+| **Languages** | **Frontend** | **Backend & API** | **Data & AI** |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![NextJS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
+
+</div>
 
 ---
-⭐️ *“Keep building, keep learning, keep exploring.”*
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-singh2111&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-singh2111&layout=compact&theme=nightowl&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Siddharth-singh2111&theme=nightowl&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+### 📂 Featured Projects
+
+#### 💀 [Dead Man's Switch](https://github.com/Siddharth-singh2111/dead-mans-switch) *(New!)*
+> A trustless, zero-knowledge digital vault that automatically releases encrypted assets to a trustee if the owner becomes inactive.
+* **Tech:** MERN Stack, Web Crypto API, Tailwind CSS, Node-cron.
+* **Features:** Client-side **AES-256-GCM encryption**, automated inactivity detection, and secure Split-Key architecture.
+
+#### ⚖️ Civic Simplifier *(AI Powered)*
+> An intelligent document analysis tool that translates complex legal jargon into plain English.
+* **Tech:** React.js, Node.js, OpenAI/Gemini API.
+* **Features:** Real-time legal summarization and AI-driven document parsing.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://split-ease-nine.vercel.app/"><b>🔹 SplitEase</b></a><br>Group Expense Manager<br><i>(React + Firebase)</i></td>
+      <td align="center"><a href="https://github.com/Siddharth-singh2111/personalized-pro"><b>🔹 PersonalisedPro</b></a><br>Custom News Dashboard<br><i>(Next.js 15)</i></td>
+      <td align="center"><a href="https://vector-shift-project.vercel.app/"><b>🔹 VectorShift</b></a><br>Pipeline Editor<br><i>(React + FastAPI)</i></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 💼 Experience
+
+**Team Lead @ Web3SSH 2025** *(Apr 2025 – July 2025)*
+* Led execution of a global Web3 summer school & hackathon with **100+ participants**.
+* Managed curriculum focused on smart contracts, ZK proofs, and dApps.
+
+**SDE Intern @ Qbtrix Innovations** *(July 2024 – Aug 2024)*
+* Built scalable web applications as a Full Stack Developer.
+
+---
+<div align="center">
+  <i>“Keep building, keep learning, keep exploring.”</i>
+</div>
