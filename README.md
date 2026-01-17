@@ -5,7 +5,7 @@
 
   <p align="center">
     <b>3rd-year B.Tech Student at IIIT Sri City</b> (GPA: 8.51/10)<br>
-    <i>Full Stack Developer | Web3 Enthusiast | Data Analytics Explorer</i>
+    <i>Full Stack Developer | GenAi  | Data Engineering Explorer</i>
   </p>
 # 💫 About Me:
 Currently exploring GenAi and System Design<br>Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI.
