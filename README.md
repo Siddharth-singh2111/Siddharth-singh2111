@@ -4,8 +4,8 @@
   <h1 align="center">Hi, I'm Siddharth Singh 👋</h1>
 
   <p align="center">
-    <b>3rd-year B.Tech Student at IIIT Sri City</b> (GPA: 8.51/10)<br>
-    <i>Full Stack Developer | GenAi  | Data Engineering Explorer</i>
+    <b>3rd-year B.Tech Student at IIIT Sri City</b> (GPA: 8.45/10)<br>
+    <i>Full Stack Developer | GenAi  | DSA Enthusiast</i>
   </p>
 # 💫 About Me:
 Currently exploring GenAi and System Design<br>Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI.
@@ -22,7 +22,6 @@ Currently exploring GenAi and System Design<br>Passionate about building sleek w
 
 **Team Lead @ Web3SSH 2025** *(Apr 2025 – July 2025)*
 * Led execution of a global Web3 summer school & hackathon with **100+ participants**.
-* Managed curriculum focused on smart contracts, ZK proofs, and dApps.
 
 **SDE Intern @ Qbtrix Innovations** *(July 2024 – Aug 2024)*
 * Built scalable web applications as a Full Stack Developer.
