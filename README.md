@@ -5,7 +5,7 @@
 
   <p align="center">
     <b>3rd-year B.Tech Student at IIIT Sri City</b> (GPA: 8.45/10)<br>
-    <i>Full Stack Developer | GenAi  | DSA Enthusiast</i>
+    <i>Full Stack Developer | Problem Solver  | DSA Enthusiast || solved 400+ problems</i>
   </p>
 # 💫 About Me:
 Currently exploring GenAi and System Design<br>Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI.
@@ -20,7 +20,7 @@ Currently exploring GenAi and System Design<br>Passionate about building sleek w
 
 ### 💼 Experience
 
-**Team Lead @ Web3SSH 2025** *(Apr 2025 – July 2025)*
+**Lead Coordinator @ Web3SSH 2025** *(Apr 2025 – July 2025)*
 * Led execution of a global Web3 summer school & hackathon with **100+ participants**.
 
 **SDE Intern @ Qbtrix Innovations** *(July 2024 – Aug 2024)*
