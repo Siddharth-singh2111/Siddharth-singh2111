@@ -25,6 +25,8 @@ Currently exploring GenAi and System Design<br>Passionate about building sleek w
 
 **SDE Intern @ Qbtrix Innovations** *(July 2024 – Aug 2024)*
 * Built scalable web applications as a Full Stack Developer.
+**SDE Intern @ Onlearn.app ** *(feb 2026 – present)*
+* Built scalable web applications as a Full Stack Developer.
 
 
 # 📊 GitHub Stats:
