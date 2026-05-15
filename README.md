@@ -4,7 +4,7 @@
   <h1 align="center">Hi, I'm Siddharth Singh 👋</h1>
 
   <p align="center">
-    <b>3rd-year B.Tech Student at IIIT Sri City</b> (GPA: 8.45/10)<br>
+    <b>4th Year B.Tech Student at IIIT Sri City</b> (GPA: 8.45/10)<br>
     <i>Full Stack Developer | Problem Solver  | DSA Enthusiast || solved 450+ problems</i>
   </p>
 # 💫 About Me:
@@ -25,6 +25,8 @@ Currently exploring GenAi and System Design<br>Passionate about building sleek w
 
 **SDE Intern @ Qbtrix Innovations** *(July 2024 – Aug 2024)*
 * Built scalable web applications as a Full Stack Developer.
+
+
 **SDE Intern @ Onlearn.app ** *(Jan 2026 –March 2026 )*
 * Built Onlearn.app  as a Full Stack Developer.
 
