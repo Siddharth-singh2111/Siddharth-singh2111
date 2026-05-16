@@ -5,10 +5,10 @@
 
   <p align="center">
     <b>4th Year B.Tech Student at IIIT Sri City</b> (GPA: 8.45/10)<br>
-    <i>Full Stack Developer | Problem Solver  | DSA Enthusiast || solved 450+ problems</i>
+    <i>Full Stack AI Developer | Problem Solver  | DSA Enthusiast || solved 450+ problems</i>
   </p>
 # 💫 About Me:
-Currently exploring GenAi and System Design<br>Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI.
+Currently exploring GenAi & Agentic Ai and System Design<br>Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI.
 
 
 ## 🌐 Socials:
