@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Banner" />
 
-  <h1 align="center">Hi, I'm Siddharth Singh 👋</h1>
+  <h1 align="center">Hi,I'm Siddharth Singh 👋</h1>
 
   <p align="center">
     <b>4th Year B.Tech Student at IIIT Sri City</b> (GPA: 8.45/10)<br>
