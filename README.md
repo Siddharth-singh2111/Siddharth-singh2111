@@ -21,13 +21,13 @@ Currently exploring GenAi & Agentic Ai and System Design<br>Passionate about bui
 ### 💼 Experience
 
 **Lead Coordinator @ Web3SSH 2025** *(Apr 2025 – July 2025)*
-* Led execution of a global Web3 summer school & hackathon with **100+ participants**.
+* Led execution of a global Web3 summer school & hackathon with **150+ participants**.
 
 **SDE Intern @ Qbtrix Innovations** *(July 2024 – Aug 2024)*
 * Built scalable web applications as a Full Stack Developer.
 
 
-**SDE Intern @ Onlearn.app ** *(Jan 2026 –March 2026 )*
+**SDE Intern @ Onlearn.app ***(Jan 2026 –March 2026 )*
 * Built Onlearn.app  as a Full Stack Developer.
 
 
