@@ -98,7 +98,7 @@ passion: [ "Clean code", "Algorithms", "Shipping products" ]
 
 ## 💼 Experience
 
-**Full Stack Developer Intern** — *Holani & Co.* `<!-- add dates -->`
+**Full Stack Developer Intern** — *Holani & Co.* May 2026-Present
 - Developed and maintained full stack web applications, contributing across frontend and backend.
 
 **SDE Intern** — *Onlearn.app* &nbsp;·&nbsp; *Jan 2026 – Mar 2026*
