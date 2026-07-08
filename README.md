@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <b>4th Year B.Tech @ IIIT Sri City</b> &nbsp;•&nbsp; <b>GPA 8.45 / 10</b>
+  <b>4th Year B.Tech @ IIIT Sri City</b> &nbsp;•&nbsp; <b>GPA 8.5 / 10</b>
 </p>
 
 <p align="center">
