@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <sub>B.Tech ECE @ IIIT Sri City &nbsp;•&nbsp; CGPA 8.5 / 10 &nbsp;•&nbsp; 2023–2027</sub>
+  <sub>B.Tech ECE @ IIIT Sri City &nbsp;•&nbsp; CGPA 8.52 / 10 &nbsp;•&nbsp; 2023–2027</sub>
 </p>
 
 <!-- ===== PROFILE VIEWS + FOLLOWERS ===== -->
